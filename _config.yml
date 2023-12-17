@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Audrey Liang/ HomePage"
+title                    : "Audrey Liang/Personal HomePage"
 title_separator          : "-"
 name                     : &name "LIANG Huixiu"
-description              : &description "personal description"
+description              : &description "Postgraduate students studying at Cuhk Business School."
 url                      : https://audreyliang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Audreyliang/audreyliang.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "Each move has its own outcome."
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  WeChat           : "Takaitsiki_L"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
