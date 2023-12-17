@@ -13,4 +13,4 @@ Throughout my academic journey, I have embraced the motto of "fall down and rise
 
 You can find my cv here:[CV of Audrey LIANG](../assets/CV_LIANGHuixiu.pdf)
 
-Contact me! [CUHK_Email](1155201557@link.cuhk.edu.hk)/[Gmail](auderyliang98@gmail.com)/[WhatsAPP](../images/whats.jpg)
+Contact me! [CUHK_Email](mailto:1155201557@link.cuhk.edu.hk)/[Gmail](mailto:auderyliang98@gmail.com)/[WhatsAPP](../images/whats.jpg)
