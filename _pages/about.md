@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My name is Liang Huixiu, and I am currently pursuing a master's degree in Information Science and Technology Management at The Chinese University of Hong Kong (CUHK). Building upon my previous academic achievements, I hold a Master's degree in Applied Economics and have authored multiple research papers. However, I am driven by a desire to go beyond the realm of theory. My true passion lies in delving into the forefront of technological advancements and leveraging them to gain a novel perspective on economic phenomena. By combining my expertise in economics with the latest advancements in technology, I aim to contribute to the practical application of knowledge and create tangible value in the world.
 
+You can find my cv here:[CV of Audrey LIANG](../assets/CV_LIANGHuixiu.pdf)
+
+Throughout my academic journey, I have embraced the motto of "fall down and rise again," understanding the importance of resilience and constant growth. I approach each opportunity with a meticulous and dedicated mindset, committed to making the most of every step in my educational and professional endeavors.
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
